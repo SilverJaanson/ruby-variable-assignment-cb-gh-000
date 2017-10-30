@@ -1,2 +1,1 @@
-variable greeting{
-puts "Hello World"}
+greeting = "Hello World"
